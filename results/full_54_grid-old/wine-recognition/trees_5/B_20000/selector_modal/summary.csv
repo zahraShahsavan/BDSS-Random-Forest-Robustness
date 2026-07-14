@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+wine-recognition,5,5,20000,modal,1,1547,0,1.0946380000095814,47,0|1|2

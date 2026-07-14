@@ -1,0 +1,2 @@
+budget,dataset,elapsed_seconds,message,run_dir,selector,status,timeout_seconds,trees
+20000,seismic_bumps,76.11809340000036,,C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\seismic_bumps\trees_10\B_20000\selector_info_gain,info_gain,completed,300,10

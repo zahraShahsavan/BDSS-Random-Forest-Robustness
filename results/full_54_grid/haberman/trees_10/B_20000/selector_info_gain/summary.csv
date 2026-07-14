@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+haberman,10,10,20000,info_gain,1,1390,0,1.1754106000007596,15,0|1

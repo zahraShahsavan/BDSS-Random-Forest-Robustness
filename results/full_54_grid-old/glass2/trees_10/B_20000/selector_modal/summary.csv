@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+glass2,10,10,20000,modal,8,37959,7,1.8479214999970281,29,0|1

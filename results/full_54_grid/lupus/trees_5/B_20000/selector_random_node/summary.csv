@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+lupus,5,5,20000,random_node,1,292,0,1.0714626999997563,13,0|1

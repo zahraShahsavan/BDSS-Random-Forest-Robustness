@@ -1,0 +1,833 @@
+budget,dataset,elapsed_seconds,error,run_dir,selector,status,timeout_seconds,trees
+20000,ann-thyroid,600.0407817000087,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\ann-thyroid\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,ann-thyroid,600.0835268000083,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\ann-thyroid\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,biodegradation,600.373072900009,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\biodegradation\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,biodegradation,600.3726001999894,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\biodegradation\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,breast-cancer-wisconsin,600.022655000008,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\breast-cancer-wisconsin\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,breast-cancer-wisconsin,600.0327890999906,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\breast-cancer-wisconsin\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,cloud,600.1123786000098,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\cloud\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,diabetes,600.1172640000004,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\diabetes\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,factors,600.0200932000007,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\factors\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,factors,600.0119799999957,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\factors\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,fourier,600.0138488000084,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\fourier\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,fourier,600.0120991000003,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\fourier\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,glass,600.023291599995,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\glass\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,glass,600.0236600999924,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\glass\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,ionosphere,600.0099853000138,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\ionosphere\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,ionosphere,600.021880500004,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\ionosphere\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,karhunen,600.3275820000126,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\karhunen\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,karhunen,600.3251429999946,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\karhunen\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,letter,600.0168581000034,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\letter\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,letter,600.0332144999993,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\letter\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,magic,600.2768356000015,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\magic\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,magic,600.1093379999948,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\magic\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,messidor,600.0095961000043,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\messidor\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,messidor,600.0217695000028,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\messidor\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,pendigits,600.0129568999982,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\pendigits\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,pendigits,600.0527928000083,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\pendigits\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,phoneme,600.2477887000132,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\phoneme\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,phoneme,600.4867021999962,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\phoneme\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,pima,600.1537417999934,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\pima\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,pima,600.1226716999954,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\pima\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,ring,600.0322737999959,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\ring\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,ring,600.0270482999913,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\ring\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,segmentation,600.0131865000003,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\segmentation\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,segmentation,600.0206096000038,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\segmentation\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,shuttle,600.0104660999932,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\shuttle\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,shuttle,600.0310022000049,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\shuttle\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,sonar,600.0189797000057,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\sonar\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,sonar,600.0103296999878,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\sonar\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,spambase,600.4007948000071,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\spambase\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,spambase,600.0896419000055,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\spambase\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,spectf,600.0188873000006,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\spectf\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,texture,600.0791982000082,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\texture\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,texture,600.0352950000088,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\texture\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,twonorm,600.0865143999981,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\twonorm\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,twonorm,600.2016691000026,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\twonorm\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,vehicle,600.0196886000049,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\vehicle\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,vehicle,600.0381191000051,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\vehicle\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,vowel,600.0161659000005,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\vowel\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,vowel,600.0170237999992,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\vowel\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,waveform-21,600.1541885999904,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\waveform-21\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,waveform-21,600.1645000999997,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\waveform-21\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,waveform-40,600.2605346999917,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\waveform-40\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,waveform-40,600.232387600001,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\waveform-40\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,wdbc,600.0306948999933,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wdbc\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,wdbc,600.0207339000044,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wdbc\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,wine-quality-red,600.1735367999936,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wine-quality-red\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,wine-quality-red,600.1288952000032,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wine-quality-red\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,wine-quality-white,600.2810271000053,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wine-quality-white\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,wine-quality-white,600.3224550000014,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wine-quality-white\trees_5\B_20000\selector_modal,modal,timeout,600,5
+20000,wine-recog,600.0177288999985,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wine-recog\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,wine-recognition,600.0189274000004,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wine-recognition\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,wpbc,600.0311924999987,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\wpbc\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,zernike,600.4723938000097,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\zernike\trees_10\B_20000\selector_modal,modal,timeout,600,10
+20000,zernike,600.2449573999911,"Timeout after 600 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+",C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\zernike\trees_5\B_20000\selector_modal,modal,timeout,600,5

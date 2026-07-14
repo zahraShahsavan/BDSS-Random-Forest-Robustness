@@ -1,0 +1,53 @@
+Timeout after 300 seconds
+
+STDOUT:
+
+
+STDERR:
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\.venv\Lib\site-packages\sklearn\base.py:525: InconsistentVersionWarning: Trying to unpickle estimator RandomForestClassifier from version 1.4.2 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\cli.py", line 148, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\cli.py", line 144, in main
+    args.func(args)
+    ~~~~~~~~~^^^^^^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\cli.py", line 35, in run_one
+    leaves, stats = budgeted_compose(
+                    ~~~~~~~~~~~~~~~~^
+        manager=manager,
+        ^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        seed=args.seed,
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\composition.py", line 76, in budgeted_compose
+    candidate = compose_one_tree(manager, state_bdds, branch_leaf_bdds, label_to_idx)
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\composition.py", line 42, in compose_one_tree
+    new[next_state] = manager.lor(new.get(next_state, 0), term)
+                      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\bdd.py", line 162, in lor
+    return self.apply("or", lambda x, y: x or y, a, b)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\bdd.py", line 134, in apply
+    out = self.mk(top, self.apply(op_name, op, al, bl), self.apply(op_name, op, ah, bh))
+                       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\bdd.py", line 134, in apply
+    out = self.mk(top, self.apply(op_name, op, al, bl), self.apply(op_name, op, ah, bh))
+                                                        ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\bdd.py", line 134, in apply
+    out = self.mk(top, self.apply(op_name, op, al, bl), self.apply(op_name, op, ah, bh))
+                       ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  [Previous line repeated 6 more times]
+  File "C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\bdss_rf_robustness\bdd.py", line 135, in apply
+    self._apply_cache[key] = out
+    ~~~~~~~~~~~~~~~~~^^^^^
+MemoryError

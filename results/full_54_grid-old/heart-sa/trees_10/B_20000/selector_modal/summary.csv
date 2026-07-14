@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+heart-sa,10,10,20000,modal,5086,44581,5085,74.10703309999371,45,0|1

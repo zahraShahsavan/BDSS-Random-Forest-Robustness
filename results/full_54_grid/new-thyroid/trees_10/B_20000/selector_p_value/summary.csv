@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+new-thyroid,10,10,20000,p_value,105,35000,104,4.5422694999997475,28,0|1|2

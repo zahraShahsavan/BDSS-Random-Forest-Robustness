@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+xd6,10,10,20000,p_value,1,520,0,1.2115343000004941,9,0|1

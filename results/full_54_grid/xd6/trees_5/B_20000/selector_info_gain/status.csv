@@ -1,0 +1,2 @@
+budget,dataset,elapsed_seconds,message,run_dir,selector,status,timeout_seconds,trees
+20000,xd6,1.8757009000000835,,C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\xd6\trees_5\B_20000\selector_info_gain,info_gain,completed,300,5

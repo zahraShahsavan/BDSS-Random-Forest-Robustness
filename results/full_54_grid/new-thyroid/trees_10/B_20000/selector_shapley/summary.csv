@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+new-thyroid,10,10,20000,shapley,33,34527,32,9.775161300000036,28,0|1|2

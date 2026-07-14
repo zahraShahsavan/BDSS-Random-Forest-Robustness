@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+spect,5,5,20000,modal,1,468,0,1.1581332000000657,22,0|1

@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+seismic_bumps,10,10,20000,modal,1626,33898,1625,34.82428709999999,67,0|1

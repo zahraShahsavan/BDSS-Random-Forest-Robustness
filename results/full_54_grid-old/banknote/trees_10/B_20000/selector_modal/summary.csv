@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+banknote,10,10,20000,modal,126,34264,125,7.914688100005151,32,0|1

@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+mammo,10,10,20000,info_gain,1,1309,0,1.146690599998692,13,0|1

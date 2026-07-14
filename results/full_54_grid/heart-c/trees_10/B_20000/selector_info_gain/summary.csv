@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+heart-c,10,10,20000,info_gain,4744,38013,4743,95.30684100000053,37,0|1

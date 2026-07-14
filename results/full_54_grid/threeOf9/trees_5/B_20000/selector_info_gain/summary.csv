@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+threeOf9,5,5,20000,info_gain,1,201,0,1.1896624000000884,9,0|1

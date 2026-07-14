@@ -1,0 +1,2 @@
+budget,dataset,elapsed_seconds,message,run_dir,selector,status,timeout_seconds,trees
+20000,appendicitis,2.051728099999991,,C:\Users\ricca\Documents\Codex\2026-06-15\files-mentioned-by-the-user-bdss\outputs\bdss_rf_robustness_project\results\full_54_grid\appendicitis\trees_10\B_20000\selector_modal,modal,completed,300,10

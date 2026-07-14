@@ -1,0 +1,2 @@
+dataset,trees_requested,trees_composed,budget,selector,frontier_leaves,peak_nodes,splits,runtime_seconds,input_bits,labels
+ecoli,10,10,20000,info_gain,4914,37517,4913,165.90133609999975,36,0|1|2|3|4
